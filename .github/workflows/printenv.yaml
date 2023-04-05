@@ -1,7 +1,7 @@
 name: GitHub Actions Environment
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   github-actions-environment-variables-ubuntu:
     runs-on: ubuntu-latest
