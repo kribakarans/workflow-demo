@@ -1,2 +1,2 @@
-# workflow-demo
+# Workflow-demo
 Github workflow demo
