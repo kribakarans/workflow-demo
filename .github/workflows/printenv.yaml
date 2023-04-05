@@ -4,7 +4,7 @@ on:
     branches: [ master ]
 jobs:
   github-actions-environment-variables-ubuntu:
-    runs-on: ubuntu-latest-arm64
+    runs-on: ubuntu-20.04
     steps:
       - name: Print environment varaibles
         run: env
